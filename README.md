@@ -1,7 +1,7 @@
 # Person Name Recognition
 
 Built an LSTM Recurrent Neural Network that determines whether given string is the name of a
-person or not. Dataset obtained by extracting ontologies from dataset http://wiki.dbpedia.org/downloads-2016-10#p10608-2
+person or not. Data obtained by extracting ontologies from dataset http://wiki.dbpedia.org/downloads-2016-10#p10608-2
 
 ## Getting Started
 
