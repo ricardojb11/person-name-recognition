@@ -13,7 +13,7 @@ testing purposes. See deployment for notes on how to deploy the project on a liv
 What things you need to install the software and how to install them
 
 ```
-Tensorflow/Tensorflow-gpu, Keras, numpy
+tensorflow or tensorflow-gpu, Keras, numpy
 ```
 
 ### Installing
